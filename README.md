@@ -1,5 +1,7 @@
 # Course Registration Project
 
+## [Website Live Link](https://hero-assingment-07.netlify.app/) 
+
 ### here are three key features of the project:
 
 - Course Selection Control: Users can select courses to add to their cart while maintaining a maximum credit limit of 20.
